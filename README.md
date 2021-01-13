@@ -27,5 +27,5 @@ You need a Chartink Premium subscription for live scans.
 ## To Do:
 
 - [ ] Add a database to store and process alerts.
-- [ ] Can be used for algo trading.
+- [ ] Implement algo trading.
 - [ ] Check OI/Volume of scan results for confirmation.
