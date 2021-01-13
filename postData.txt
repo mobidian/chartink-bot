@@ -1,0 +1,1 @@
+{"stocks":"SUBEXLTD,HDFCAMC,MCX,CADILAHC,CCL","trigger_prices":"30.25,2812,1686.6,471.8,276.1","triggered_at":"12:19 pm","scan_name":"Breaking Days High - 5 Mins","scan_url":"breaking-days-high-5-mins","alert_name":"Alert for Breaking Days High - 5 mins","webhook_url":"https:\/\/dinvyapari.com/chartink.php"}
