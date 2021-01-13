@@ -18,11 +18,11 @@ Live scan alerts on [Chartink](https://chartink.com/screeners) have a webhook UR
 ```
 This PHP script receives and formats such data, and sends it to the Telegram user whose ID is passed in the get variable ```tgt```. A POST request is made to the Telegram API for this. Before using, you need to have a Telegram bot and replace XXXXXXXXXX in the script with your bot's token.
 
-Sample Telegram Alert:
+## Sample Telegram Alert:
 
 ![Picture](https://raw.githubusercontent.com/DinVyapari/chartink-bot/master/alert.jpg)
 
-You also need a Chartink Premium subscription for live scans.
+You need a Chartink Premium subscription for live scans.
 
 ## To Do:
 
