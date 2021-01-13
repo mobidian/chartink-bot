@@ -20,7 +20,7 @@ This PHP script receives and formats such data, and sends it to the Telegram use
 
 Sample Telegram Alert:
 
-![Picture](https://github.com/DinVyapari/chartink-bot/blob/master/alert.jpg?raw=true)
+![Picture](https://raw.githubusercontent.com/DinVyapari/chartink-bot/master/alert.jpg)
 
 You also need a Chartink Premium subscription for live scans.
 
